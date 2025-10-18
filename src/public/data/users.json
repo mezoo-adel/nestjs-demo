@@ -1,0 +1,23 @@
+[
+  {
+    "name": "moataz edited",
+    "email": "moataz@gmail.com",
+    "id": 2,
+    "role": "admin",
+    "age": 26
+  },
+  {
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@nest.js",
+    "role": "user",
+    "age": 26,
+    "id": 4
+  },
+  {
+    "name": "David Thompson",
+    "email": "david.thompson@nest.js",
+    "role": "manager",
+    "age": 39,
+    "id": 5
+  }
+]
