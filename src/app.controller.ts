@@ -7,7 +7,7 @@ export class AppController {
 
   @Get()
   index(@Query('id') id: string, @Query('name') name: string) {
-    return { id, name };
+    return { welcome: 'hello world', id, name };
   }
 
   @Patch(':app')
